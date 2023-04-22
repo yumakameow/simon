@@ -1,2 +1,2 @@
-# simon.github.io
-Web Game
+# Simon-Web-game
+Игра на вебсайте под названием Саймон
